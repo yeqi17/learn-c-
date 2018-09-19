@@ -1,2 +1,2 @@
-# learn-c-
+# learn c++
 practice makes perfect
